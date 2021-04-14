@@ -1,0 +1,5 @@
+[package]
+name = "fp_types"
+version = "0.1.0"
+authors = ["Matt Coster <opensource@mtcoster.net>"]
+edition = "2018"
